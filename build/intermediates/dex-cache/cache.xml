@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/udyatbhanu-mac/Documents/Samples/Animation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/udyatbhanu-mac/Documents/Samples/Animation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_fe5aba70868cd4e2e22af021eb05fe8f91df267c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/udyatbhanu-mac/Documents/Samples/Animation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/udyatbhanu-mac/Documents/Samples/Animation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_9cd24a4eda06eb3e5884b06d743904a304912f1f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/udyatbhanu-mac/Documents/Samples/Animation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/udyatbhanu-mac/Documents/Samples/Animation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_87870efbdf0243272ac6f2ddcb4c3ceb77fa1982/classes.dex" />
+    </item>
+    <item
+        jar="/Users/udyatbhanu-mac/Documents/Samples/Animation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc1"
+        sha1="056f919377a8f28d798738b6bd6ce4048529fff0">
+        <dex dex="/Users/udyatbhanu-mac/Documents/Samples/Animation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_752513d208e3125cb62942e5c2c47179873a7e4f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/udyatbhanu-mac/Documents/Samples/Animation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0 rc1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/udyatbhanu-mac/Documents/Samples/Animation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_d61d8d922b343c9b27fa06e5b6e55aaa817f2fc4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/udyatbhanu-mac/Documents/Samples/Animation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc1"
+        sha1="517951426af5843546d47c302d61f18c1bc2cbb2">
+        <dex dex="/Users/udyatbhanu-mac/Documents/Samples/Animation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1353f5ca04197cb3365442138d87d5e2a13fc161/classes.dex" />
+    </item>
+    <item
+        jar="/Users/udyatbhanu-mac/Documents/Samples/Animation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/udyatbhanu-mac/Documents/Samples/Animation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_a7b5fd5e14ce0ea18d5d6e66c13670f113c353c3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/udyatbhanu-mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0 rc1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/udyatbhanu-mac/Documents/Samples/Animation/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_21050955e499a281d676227469e0fc1471d808bb/classes.dex" />
+    </item>
+
+</items>
